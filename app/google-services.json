@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618375058805",
+    "project_id": "connect-us-fe69d",
+    "storage_bucket": "connect-us-fe69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618375058805:android:5f235dfade0393b1e06f3c",
+        "android_client_info": {
+          "package_name": "com.example.connectus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618375058805-reo46d1m714vo72146qi8do28n490hrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXFLYn3r5pVgtDD-QC7oJucza5U8Obaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618375058805-reo46d1m714vo72146qi8do28n490hrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
